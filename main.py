@@ -1,1 +1,5 @@
-print("Hello World !!"
+show():
+  print(x)
+
+main():
+  show("a")
